@@ -14,3 +14,4 @@
      - Провести исследовательский анализ данных сервиса Яндекс Афиша за период с 01.06.2024 по 31.10.2024, чтобы выяснить причины
 изменения пользовательских предпочтений.  
      - Проверить гипотезы об активности пользователей мобильных и стационарных устройств.  
+     [online_tickets_purchase_service](https://github.com/ekaterinazabrodskaya/Practicum_projects/tree/87a1ff434449c7269efc23d3024ba167ac7e4785/online_tickets_purchase_service)
