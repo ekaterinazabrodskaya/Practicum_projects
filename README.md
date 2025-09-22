@@ -18,4 +18,4 @@
 **3. Проект "Анализ данных для агентства недвижимости"**  
      Цель проекта:  
      - Провести анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области для того, чтобы найти самые перспективные сегменты недвижимости.  
-     [real_estate_SP](https://github.com/ekaterinazabrodskaya/Practicum_projects/tree/da43e3198267086a173323dabd220475b428635e/real_estate_SP)  
+     [real_estate_SP](https://github.com/ekaterinazabrodskaya/Practicum_projects/tree/864befac7f8b7687c65749467e42a186cd41eb75/real_estate_SP)
