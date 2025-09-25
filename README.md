@@ -18,8 +18,8 @@
 **3. Проект "Анализ данных для агентства недвижимости"**  
      Цель проекта:  
      - Провести анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области для того, чтобы найти самые перспективные сегменты недвижимости.  
-     [real_estate_SP](https://github.com/ekaterinazabrodskaya/Practicum_projects/tree/864befac7f8b7687c65749467e42a186cd41eb75/real_estate_SP)
+     [real_estate_SP](https://github.com/ekaterinazabrodskaya/Practicum_projects/tree/864befac7f8b7687c65749467e42a186cd41eb75/real_estate_SP)  
 **4. Проект "Исследование рынка стартапов"**
      Цель проекта:
      - Исследовать исторические данные с целью разработки модели бизнеса по покупке, развитию и перепродаже перспективных стартапов. Оценить данные на полноту и возможные искажения.
-     [startup_market_research]()
+     [startup_market_research](https://github.com/ekaterinazabrodskaya/Practicum_projects/tree/48cf31912f3c4e7dcc594b855ab5decbf4188102/startup_market_research)
